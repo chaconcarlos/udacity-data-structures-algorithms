@@ -1,0 +1,24 @@
+Task 0
+======
+The worst case of my implementation for this task is: O(1). Both lookup operations are constant, as the get item operation for a list in Python is O(1).
+
+Task 1
+======
+The worst case of my implementation for this task is: O(n). I have to iterate through both lists of calls and texts, and that's 2 not nested "for" loops.
+hat would be O(n + n) = O(2n) = O(n). The time complexity for the insertion on a set is constant, O(1).
+
+Task 2
+======
+# The worst case of my implementation for this task is: O(n). I only need to iterate through the list of calls once. The time complexity for the insertion and item lookup on a dict is constant, O(1).
+
+Task 3
+======
+The worst case complexity for this task would be O(n log n). The first loop to iterate and get the information in the set and the variables is O(n).
+The ordering would be O(n log n), and the printing would be O(n). For the whole task O(n + n log n + n) = O(2n + n log n).
+Simplified, would be O(n log n), because O(n log n) is bigger in orders of magnitude than O(2n).
+
+Task 4
+======
+The worst case complexity for this task would be O(n log n). The first 2 consecutive loops to iterate and get the information in the set and the variables is O(2n).
+The ordering would be O(n log n), and the printing would be O(n).
+For the whole task O(2n + n log n + n) = O(3n + n log n). Simplified, would be O(n log n), because O(n log n) is bigger in orders of magnitude than O(3n).
