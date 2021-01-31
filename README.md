@@ -14,10 +14,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/chaconcarlos/udacity-data-structures-algorithms">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="240" height="126">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Udacity's Data Structures and Algorithms Coursework</h3>
 
   <p align="center">
     Workbooks and projects for Udacity's Data Structures and Algorithms course
